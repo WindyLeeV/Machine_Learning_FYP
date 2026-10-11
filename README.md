@@ -30,3 +30,4 @@ conductor design pipelines.
 Keywords: Compact modeling; Machine learning; TCAD simulation; ANN; XGBoost; Random
 Forest
 
+![项目海报](images/preview.png)
